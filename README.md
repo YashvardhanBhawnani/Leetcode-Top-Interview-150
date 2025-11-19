@@ -10,6 +10,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0027-remove-element](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -60,6 +61,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
