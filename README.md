@@ -11,6 +11,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0035-search-insert-position](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
+| [1580-shuffle-the-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
