@@ -16,6 +16,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-build-an-array-with-stack-operations](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -56,6 +57,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
@@ -73,4 +75,8 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
