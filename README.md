@@ -11,6 +11,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0035-search-insert-position](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 | [1580-shuffle-the-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1580-shuffle-the-array) |
@@ -25,6 +26,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
@@ -56,5 +58,10 @@ Solutions to Leetcode Top Interview 150 Questions.
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
