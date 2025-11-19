@@ -14,6 +14,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 | [1580-shuffle-the-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +50,9 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Hash Table
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
