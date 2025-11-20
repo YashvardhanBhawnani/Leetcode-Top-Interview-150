@@ -47,10 +47,12 @@ Solutions to Leetcode Top Interview 150 Questions.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -81,4 +83,8 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1552-build-an-array-with-stack-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
