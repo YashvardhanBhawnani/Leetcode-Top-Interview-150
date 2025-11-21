@@ -1,5 +1,6 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
+        if(s.length()<3) return 0;
         int first[] = new int[26], last[] = new int[26], res = 0;
         Arrays.fill(first, Integer.MAX_VALUE);
         for (int i = 0; i < s.length(); ++i) {
