@@ -70,11 +70,13 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting Sort
 |  |
 | ------- |
@@ -87,4 +89,12 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
