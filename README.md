@@ -28,6 +28,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0088-merge-sorted-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +106,5 @@ Solutions to Leetcode Top Interview 150 Questions.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
