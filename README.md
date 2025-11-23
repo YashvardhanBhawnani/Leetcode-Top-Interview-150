@@ -104,7 +104,12 @@ Solutions to Leetcode Top Interview 150 Questions.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
