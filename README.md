@@ -15,6 +15,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1580-shuffle-the-array) |
@@ -80,6 +81,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Counting Sort
 |  |
