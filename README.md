@@ -22,6 +22,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2058-concatenation-of-array](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 | [0070-climbing-stairs](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
