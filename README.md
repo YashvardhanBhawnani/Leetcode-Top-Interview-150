@@ -52,6 +52,7 @@ Solutions to Leetcode Top Interview 150 Questions.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0909-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/1015-smallest-integer-divisible-by-k) |
