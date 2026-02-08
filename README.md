@@ -119,4 +119,16 @@ Solutions to Leetcode Top Interview 150 Questions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/YashvardhanBhawnani/Leetcode-Top-Interview-150/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
